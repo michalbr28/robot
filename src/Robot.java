@@ -1,5 +1,8 @@
-//import java.awt.String;
-
+/**
+ * 
+ * @author Michal B
+ *
+ */
 public class Robot {
 
 	private String color;
@@ -25,7 +28,7 @@ public class Robot {
 		return this.isInGame;
 	}
 
-	public void setColor(String color) {
+	public void setC(String color) {
 		this.color = color;
 	}
 
